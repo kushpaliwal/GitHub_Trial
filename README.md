@@ -8,12 +8,13 @@ Lafayette) and its Flood Frequency Curve.
 
 Content Details
 
-> peakstreamflow.ipynb
+peakstreamflow.py
+
 This python code has been created using Jupyter Notebook with Pythod 3.0. The program
 can be used to download and save peak streamflow data (based on user defined station
 number) as a .txt file in the assigned location and further plot and its flood frequency
 curve.
 
-> Example Dataset (Data_03335500_raw.txt, Flood Frequency Curve.png)
+Example Dataset (Data_03335500_raw.txt, Flood Frequency Curve.png)
 The example dataset contains data downloaded for USGS Station 03335500 and its 
 corresponding flood frequency curve.
